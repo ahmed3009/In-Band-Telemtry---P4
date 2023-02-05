@@ -1,4 +1,4 @@
-# In-Band-Telemtry--Group 3
+# In-Band-Telemetry--Group 3
 
 ### Step 1
 Download code and unzip .rar/tar files
@@ -21,7 +21,11 @@ Click on 'Start Controller' button to start the Controller
 
 ### Step 7
 Now that Mininet and controller are running, you can start the initial custom packet flow.
--Click on 'Start Receiver' button. You will be prompted to enter the destination of the packet flow and the switch for which you want the telemetry metrics to be plotted. Please specify the destination host first followed by comma and then the respective switch. Press the 'Ok' button to confirm. *You can use the topology diagram given in the GUI to check for the respective node and switch names
+
+
+-Click on 'Start Receiver' button. You will be prompted to enter the destination of the packet flow and the switch for which you want the telemetry metrics to be plotted. Please specify the destination host first followed by comma and then the respective switch. Press the 'Ok' button to confirm. 
+
+*You can use the topology diagram given in the GUI to check for the respective node and switch names
 
 -Next, click on 'Activate Host' button to specify the host node of the packet flow. Press the 'Ok' button to confirm.
 
